@@ -1,3 +1,6 @@
+# News Headline Classification: Comparison of Traditional ML and Transformer Models
+-------------------------------------------------------------------------------------------------------------------
+
 # Abstract:
 
 News headline classification is an important task in Natural Language Processing (NLP) that involves assigning
